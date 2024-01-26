@@ -1,0 +1,14 @@
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\obj\Debug\net8.0\Pig Latin Capstone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\obj\Debug\net8.0\Pig Latin Capstone.AssemblyInfoInputs.cache
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\obj\Debug\net8.0\Pig Latin Capstone.AssemblyInfo.cs
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\obj\Debug\net8.0\Pig Latin Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\bin\Debug\net8.0\Pig Latin Capstone.exe
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\bin\Debug\net8.0\Pig Latin Capstone.deps.json
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\bin\Debug\net8.0\Pig Latin Capstone.runtimeconfig.json
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\bin\Debug\net8.0\Pig Latin Capstone.dll
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\bin\Debug\net8.0\Pig Latin Capstone.pdb
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\obj\Debug\net8.0\Pig Latin Capstone.dll
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\obj\Debug\net8.0\refint\Pig Latin Capstone.dll
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\obj\Debug\net8.0\Pig Latin Capstone.pdb
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\obj\Debug\net8.0\Pig Latin Capstone.genruntimeconfig.cache
+C:\Users\Dominic\source\GrandCircus\repos\Pig Latin Capstone\Pig Latin Capstone\obj\Debug\net8.0\ref\Pig Latin Capstone.dll
